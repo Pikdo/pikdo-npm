@@ -1,11 +1,17 @@
 const messages  = [
-    "Hola",
-    "Hello",
-    "Hi",
-    "Ciao",
-    "Bonjour",
-    "Howday",
-    "Pura vida"
+    "Hola", // Spanish
+    "Hello", //English    
+    "Ciao", // Ialian
+    "Bonjour",  // French
+    "Pura vida", // Tico
+    "Hallo", // German
+    "Olá", // Portuguiese
+    "Hej", // Sueco
+    "Namaste", // Hindú
+    "Merhaba", // Turkey
+    "Salam", // Árabe,
+    "Sveiki",  // Lituan
+    "Привіт"  // Ucranian
 ];
 
 const pikdo = () => {
