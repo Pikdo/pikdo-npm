@@ -17,5 +17,10 @@
   "bin":{
     "pikdo" : "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pikdo/pikdo-npm"
+  },
+  "homepage": "https://github.com/Pikdo/pikdo-npm#readme"
 }
