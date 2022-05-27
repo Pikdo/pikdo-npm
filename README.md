@@ -14,7 +14,7 @@ npm install -g pikdo
 # Usage
 
 ```bash
-random-msg
+pikdo
 ```
 
 # Contributing
